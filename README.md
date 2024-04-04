@@ -23,7 +23,7 @@ Getting Zoro up and running is a breeze. Just follow these simple steps:
    Begin by cloning the Zoro repository to your local machine using Git. Open your terminal and execute the following command:
 
    ```bash
-   git clone https://github.com/Peeentaa/zoro.git
+   git clone https://github.com/Peeentaa/Zoro.git
    ```
    
 2.  **Build the project with Go:**
