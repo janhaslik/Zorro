@@ -37,7 +37,7 @@ Getting Zoro up and running is a breeze. Just follow these simple steps:
     Now, build the project using Go:
 
     ```bash
-    cd zoro
+    go build
     ```
 
 3. **Optional: Install Zoro globally:**
