@@ -7,8 +7,8 @@ import (
 	"os"
 	"strconv"
 	"strings"
-	"zoro/crypto"
-	"zoro/db"
+	"zorro/crypto"
+	"zorro/db"
 )
 
 func ProcessED(operation string, args []string) {

@@ -7,7 +7,7 @@ import (
 	"encoding/pem"
 	"fmt"
 	"os"
-	"zoro/db"
+	"zorro/db"
 )
 
 func GenerateRSAKey(bits int, pemfile string) *rsa.PrivateKey {

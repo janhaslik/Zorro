@@ -1,4 +1,4 @@
-module zoro
+module zorro
 
 go 1.22.1
 

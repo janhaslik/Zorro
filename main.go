@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"log"
-	"zoro/cli"
+	"zorro/cli"
 )
 
 func main() {
