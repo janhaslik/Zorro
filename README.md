@@ -5,7 +5,7 @@ Zorro is a command-line tool for encryption, decryption, hashing, and RSA key ma
 
 ## Introduction
 
-Zorro is a versatile command-line tool designed for various cryptographic operations, including encryption, decryption, hashing, and RSA key management. Developed with simplicity and efficiency in mind, Zoro offers a user-friendly interface for securing sensitive data and managing cryptographic keys effectively.
+Zorro is a versatile command-line tool designed for various cryptographic operations, including encryption, decryption, hashing, and RSA key management. Developed with simplicity and efficiency in mind, Zorro offers a user-friendly interface for securing sensitive data and managing cryptographic keys effectively.
 
 ## Features
 
@@ -16,11 +16,11 @@ Zorro is a versatile command-line tool designed for various cryptographic operat
 
 ## Installation
 
-Getting Zoro up and running is a breeze. Just follow these simple steps:
+Getting Zorro up and running is a breeze. Just follow these simple steps:
 
 1. **Clone the Zorro repository:**
 
-   Begin by cloning the Zoro repository to your local machine using Git. Open your terminal and execute the following command:
+   Begin by cloning the Zorro repository to your local machine using Git. Open your terminal and execute the following command:
 
    ```bash
    git clone https://github.com/Peeentaa/Zorro.git
@@ -40,7 +40,7 @@ Getting Zoro up and running is a breeze. Just follow these simple steps:
     go build
     ```
 
-3. **Optional: Install Zoro globally:**
+3. **Optional: Install Zorro globally:**
 
     If you'd like to use Zorro from any directory on your system, you can install it globally:
 
